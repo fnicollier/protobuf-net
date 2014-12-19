@@ -118,6 +118,7 @@
     <Compile Include="Attribs\ComplexMultiTypes.cs" />
     <Compile Include="Attribs\PointStruct.cs" />
     <Compile Include="FX11.cs" />
+    <Compile Include="Issues\SO27563871.cs" />
     <Compile Include="Issues\SO8933251.cs" />
     <Compile Include="Meta\Basic.cs" />
     <Compile Include="Meta\Callbacks.cs" />
